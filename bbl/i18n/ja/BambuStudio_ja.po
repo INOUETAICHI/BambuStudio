@@ -1460,10 +1460,10 @@ msgid "Add modifier"
 msgstr "モディファイアを追加"
 
 msgid "Add support blocker"
-msgstr "サポートを追加"
+msgstr "サポートを除去"
 
 msgid "Add support enforcer"
-msgstr "サポート補強を追加"
+msgstr "サポートを追加"
 
 msgid "Add text"
 msgstr ""
@@ -1937,7 +1937,7 @@ msgid "Support Blocker"
 msgstr "サポート除去器"
 
 msgid "Support Enforcer"
-msgstr "サポート増強器"
+msgstr "サポート追加器"
 
 msgid "Type:"
 msgstr "タイプ"
@@ -8750,7 +8750,7 @@ msgid "The prime tower requires that support has the same layer height as object
 msgstr "The prime tower requires that supports have the same layer height as objects."
 
 msgid "Support enforcers are used but support is not enabled. Please enable support."
-msgstr "サポート増強器を有効しましたが、サポート自体は有効されていません。有効にしてください。"
+msgstr "サポート追加器を有効しましたが、サポート自体は有効されていません。有効にしてください。"
 
 msgid "Layer height cannot exceed nozzle diameter"
 msgstr "積層ピッチはノズルの直径を超える為設定できません"
